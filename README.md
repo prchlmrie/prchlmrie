@@ -2,9 +2,6 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/prchlmrie">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=prchlmrie.prchlmrie&left_color=gray&right_color=blue&left_text=Profile%20visitors">
 </a>
-<a style="text-decoration: none" target="_blank" href="www.linkedin.com/in/cheilou-marie-puro">
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
 </div>
 
 <br>
