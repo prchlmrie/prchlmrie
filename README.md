@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Cheilou+Marie+Puro!;" />
 
 <h2>📖 | About me</h2> 
-🌐 An aspiring data scientist who likes exploring the limitless possibilities of machine learning to solve real-world problems.
+🌐 An aspiring AI Engineer who likes exploring the limitless possibilities of machine learning to solve real-world problems.
 <br/>
 
 <div align="center">
