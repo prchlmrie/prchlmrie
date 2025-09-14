@@ -10,6 +10,7 @@
 
 <h2>About me</h2> 
 🌐 An aspiring AI Engineer who likes exploring the limitless possibilities of machine learning to solve real-world problems.
+More on: https://prchlmrie.github.io/Hogwarts-Themed-Portfolio/
 <br/>
 
 <div align="center">
