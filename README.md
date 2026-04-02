@@ -12,24 +12,6 @@
 🌐 An aspiring AI Engineer who likes exploring the limitless possibilities of machine learning to solve real-world problems.
 <br/>
 
-<div align="center">
-    
-  <img src="https://github.com/prchlmrie/prchlmrie/blob/output/github-snake.svg" alt="Snake animation showing contributions" />
-</div>
-
-<h2>My contribution streak</h2>
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prchlmrie&count_private=true&theme=react&border_radius=10" alt="Streak stats" />
-</p>
-
-<h2>Github Stats </h2>
-
-<div align="center">
-<a href="https://github.com/prchlmrie">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prchlmrie&layout=compact&langs_count=7&theme=default"/></a>
-</div>
-
-
 
 
 
